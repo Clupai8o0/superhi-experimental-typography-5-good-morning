@@ -1,0 +1,8 @@
+Links:
+https://p5js.org/
+https://p5js.org/reference/
+
+Colors:
+Background: #ebe2d8
+Red: #ff0000
+
